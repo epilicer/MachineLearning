@@ -1,6 +1,6 @@
 # MachineLearning
 
-This folder contains example Jupyter Notebooks for Machine Learnings
+This folder contains example Jupyter Notebooks for Machine Learnings, which is the algorithms learning from observational data and making predictions.
 
 - Supervised and unsupervised learning
 - Avoiding overfitting by using train/test
