@@ -1,6 +1,6 @@
 # MachineLearning
 
-This folder contains 
+This folder contains example Jupyter Notebooks for Machine Learnings
 
 - Supervised and unsupervised learning
 - Avoiding overfitting by using train/test
