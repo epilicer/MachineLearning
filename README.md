@@ -13,3 +13,4 @@ This folder contains example Jupyter Notebooks for Machine Learnings, which is t
 - Concept of decision trees and its example in Python
 - What is ensemble learning
 - Support Vector Machine (SVM) and its example using scikit-learn
+- Convolutional neural network
